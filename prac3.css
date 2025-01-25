@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding:0;
+}
+#nav{
+    height: 60px;
+    background-color: black;
+}
+#link{
+    color: #f08804;
+    font size: 5px;
+
+}
